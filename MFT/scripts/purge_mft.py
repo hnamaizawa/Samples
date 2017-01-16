@@ -10,5 +10,3 @@ connect(username,password,url)
 purgeInstanceData(start_date, end_date, testMode='false', status='*', runPayloadPurge='TRUE')
 
 exit ()
-
-# test
